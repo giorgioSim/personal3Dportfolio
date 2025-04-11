@@ -1,5 +1,5 @@
 
-<h1 align="center" id="title">Personal 3D Portfolio</h1>
+<h1 align="center" id="title">Personal 3D Portfolio (In Progress)</h1>
 
 <p id="description">An interactive 3D portfolio website built with modern web technologies to showcase projects skills and contact information in an immersive experience.​</p>
 
